@@ -1,0 +1,522 @@
+ allegro
+
+ Timestamp is 4eea3062 (Fri Dec 16 01:37:38 2011)
+
+ Preferred load address is 00400000
+
+ Start         Length     Name                   Class
+ 0001:00000000 00012d78H .text                   CODE
+ 0002:00000000 00000ddcH .rdata                  DATA
+ 0002:00000ddc 00000000H .edata                  DATA
+ 0003:00000000 00000004H .CRT$XCA                DATA
+ 0003:00000004 00000004H .CRT$XCZ                DATA
+ 0003:00000008 00000004H .CRT$XIA                DATA
+ 0003:0000000c 00000004H .CRT$XIZ                DATA
+ 0003:00000010 00000004H .data                   DATA
+ 0003:00000014 000000f4H .bss                    DATA
+ 0004:00000000 0000003cH .idata$2                DATA
+ 0004:0000003c 00000014H .idata$3                DATA
+ 0004:00000050 000000f4H .idata$4                DATA
+ 0004:00000144 000000f4H .idata$5                DATA
+ 0004:00000238 0000017eH .idata$6                DATA
+
+  Address         Publics by Value              Rva+Base     Lib:Object
+
+ 0001:00000000       ?CO1@@YAXPAH0000@Z         00401000 f   CO1.obj
+ 0001:00000180       ?CO101@@YAHPAH000PAUSAMPLE@@@Z 00401180 f   CO101.obj
+ 0001:000009b0       ?CO104@@YAHPAH000PAUSAMPLE@@@Z 004019b0 f   CO104.obj
+ 0001:00000c10       ?CO104_lab@@YAHPAH000PAUSAMPLE@@@Z 00401c10 f   CO104_lab.obj
+ 0001:00000fd0       ?CO1b01@@YAHPAH000PAUSAMPLE@@@Z 00401fd0 f   CO1b01.obj
+ 0001:00001420       ?Start@@YAHPAH000@Z        00402420 f   Start.obj
+ 0001:00001ab0       ?BO1@@YAXPAH0000@Z         00402ab0 f   BO1.obj
+ 0001:00001be0       ?BO101@@YAHPAH000PAUSAMPLE@@@Z 00402be0 f   BO101.obj
+ 0001:00002530       ?BO1Road@@YAHPAH000PAUSAMPLE@@@Z 00403530 f   BO1Road.obj
+ 0001:000027a0       ?Road@@YAXPAH0000@Z        004037a0 f   Road.obj
+ 0001:00002930       ?Road001@@YAHPAH000PAUSAMPLE@@@Z 00403930 f   Road001.obj
+ 0001:00002ba0       ?Road002@@YAHPAH000PAUSAMPLE@@@Z 00403ba0 f   Road002.obj
+ 0001:00002ef0       ?Road003@@YAHPAH000PAUSAMPLE@@@Z 00403ef0 f   Road003.obj
+ 0001:00003430       ?Road004@@YAHPAH000PAUSAMPLE@@@Z 00404430 f   Road004.obj
+ 0001:00003850       ?LO2@@YAHPAH000PAUSAMPLE@@@Z 00404850 f   LO2.obj
+ 0001:00004040       ?LO2_classroom@@YAHPAH000PAUSAMPLE@@@Z 00405040 f   LO2_classroom.obj
+ 0001:000044a0       ?LO2_MO1@@YAXPAH0000@Z     004054a0 f   LO2_MO1.obj
+ 0001:000046c0       ?LO2Road@@YAHPAH000PAUSAMPLE@@@Z 004056c0 f   LO2Road.obj
+ 0001:00004aa0       ?LO2toMO1road@@YAHPAH000PAUSAMPLE@@@Z 00405aa0 f   LO2toMO1road.obj
+ 0001:00005110       ?MO1@@YAHPAH000PAUSAMPLE@@@Z 00406110 f   MO1.obj
+ 0001:00005580       ?Restroom@@YAHPAH000PAUSAMPLE@@@Z 00406580 f   Restroom.obj
+ 0001:00005c10       ?RoadUP@@YAHPAH000PAUSAMPLE@@@Z 00406c10 f   RoadUP.obj
+ 0001:00005f70       ?LO1@@YAXPAH0000@Z         00406f70 f   LO1.obj
+ 0001:000060c0       ?LO101@@YAHPAH000PAUSAMPLE@@@Z 004070c0 f   LO101.obj
+ 0001:00006700       ?LO102@@YAHPAH000PAUSAMPLE@@@Z 00407700 f   LO102.obj
+ 0001:00006bf0       ?LO105@@YAHPAH000PAUSAMPLE@@@Z 00407bf0 f   LO105.obj
+ 0001:00006f30       ?PrincipleOffice@@YAHPAH000@Z 00407f30 f   PrincipleOffice.obj
+ 0001:00007370       ?CO2@@YAXPAH0000@Z         00408370 f   CO2.obj
+ 0001:00007470       ?CO201@@YAHPAH000PAUSAMPLE@@@Z 00408470 f   CO2.obj
+ 0001:00007ba0       ?RoadtoLO1_01@@YAXPAH0000@Z 00408ba0 f   RoadtoLO1.obj
+ 0001:00007ec0       ?RoadtoLO1_02@@YAXPAH0000@Z 00408ec0 f   RoadtoLO1.obj
+ 0001:000081d0       ?RoadtoLO1_03@@YAXPAH0000@Z 004091d0 f   RoadtoLO1.obj
+ 0001:000084e0       ?LOAD_GAME@@YAXHHHHHH@Z    004094e0 f   LOAD_GAME.obj
+ 0001:00008640       ?Main_Menu@@YAHXZ          00409640 f   Main_Menu.obj
+ 0001:00008b50       ?Menu@@YAXHHHHHHPAUSAMPLE@@@Z 00409b50 f   Menu.obj
+ 0001:00009020       ?walking@@YAXPAH00PAUBITMAP@@11@Z 0040a020 f   people_work.obj
+ 0001:000099d0       ?Save@@YAXHHHHHH@Z         0040a9d0 f   Save.obj
+ 0001:00009a70       ?Load@@YAXPAH00000@Z       0040aa70 f   Save.obj
+ 0001:00009b10       ?init_Cfont@@YAHXZ         0040ab10 f   Cfont.obj
+ 0001:00009be0       ?ASK_NUM_PIC@@YAPAUBITMAP@@XZ 0040abe0 f   Cfont.obj
+ 0001:00009c10       ?load_Cfont@@YAHXZ         0040ac10 f   Cfont.obj
+ 0001:00009d70       ?print_cfont@@YAHPAUBITMAP@@HHHHHH@Z 0040ad70 f   Cfont.obj
+ 0001:00009e10       ?print_to_buffer@@YAHH@Z   0040ae10 f   Cfont.obj
+ 0001:0000a390       ?load_txt@@YAHXZ           0040b390 f   Cfont.obj
+ 0001:0000a5a0       ?num_chk@@YAHXZ            0040b5a0 f   Cfont.obj
+ 0001:0000a6d0       ?line_chk@@YAHXZ           0040b6d0 f   Cfont.obj
+ 0001:0000a880       ?close_Cfont@@YAHXZ        0040b880 f   Cfont.obj
+ 0001:0000a920       ?Even_05@@YAXXZ            0040b920 f   Even_BO1.obj
+ 0001:0000aa50       ?Even_06@@YAXXZ            0040ba50 f   Even_BO1.obj
+ 0001:0000ab30       ?Even_07@@YAXXZ            0040bb30 f   Even_BO1.obj
+ 0001:0000ac60       ?Even_08@@YAXXZ            0040bc60 f   Even_BO1.obj
+ 0001:0000ad30       ?Even_EL01@@YAXXZ          0040bd30 f   Even_BO1_01.obj
+ 0001:0000adb0       ?Even_EL02@@YAXXZ          0040bdb0 f   Even_BO1_01.obj
+ 0001:0000ae30       ?Even_TCCD@@YAXXZ          0040be30 f   Even_BO1_01.obj
+ 0001:0000aeb0       ?Even_DKHL01@@YAXXZ        0040beb0 f   Even_BO1_01.obj
+ 0001:0000af30       ?Even_DKHL02@@YAXXZ        0040bf30 f   Even_BO1_01.obj
+ 0001:0000afb0       ?Even_01@@YAXXZ            0040bfb0 f   Even_CO1.obj
+ 0001:0000b0d0       ?Even_02@@YAXPAUSAMPLE@@@Z 0040c0d0 f   Even_CO1.obj
+ 0001:0000b3f0       ?Even_03@@YAXXZ            0040c3f0 f   Even_CO1.obj
+ 0001:0000b4f0       ?Even_04@@YAXXZ            0040c4f0 f   Even_CO1.obj
+ 0001:0000b5c0       ?Even_Start01@@YAXXZ       0040c5c0 f   Even_CO1_01.obj
+ 0001:0000b640       ?Even_Start02@@YAXXZ       0040c640 f   Even_CO1_01.obj
+ 0001:0000b6c0       ?Even_CEE01@@YAXXZ         0040c6c0 f   Even_CO1_01.obj
+ 0001:0000b740       ?Even_CEE02@@YAXXZ         0040c740 f   Even_CO1_01.obj
+ 0001:0000b7c0       ?Even_CM01@@YAXXZ          0040c7c0 f   Even_CO1_01.obj
+ 0001:0000b840       ?Even_CM02@@YAXXZ          0040c840 f   Even_CO1_01.obj
+ 0001:0000b8c0       ?Even_Wu01@@YAXXZ          0040c8c0 f   Even_CO1_01.obj
+ 0001:0000b940       ?Even_Wu02@@YAXXZ          0040c940 f   Even_CO1_01.obj
+ 0001:0000b9c0       ?Even_21@@YAXXZ            0040c9c0 f   Even_CO2.obj
+ 0001:0000baa0       ?Even_22@@YAXXZ            0040caa0 f   Even_CO2.obj
+ 0001:0000bc10       ?Even_AP@@YAXXZ            0040cc10 f   Even_CO2_01.obj
+ 0001:0000bc90       ?Even_AC01@@YAXXZ          0040cc90 f   Even_CO2_01.obj
+ 0001:0000bd10       ?Even_AC02@@YAXXZ          0040cd10 f   Even_CO2_01.obj
+ 0001:0000bd90       ?Even_23@@YAXXZ            0040cd90 f   Even_LO1.obj
+ 0001:0000be60       ?Even_25@@YAXXZ            0040ce60 f   Even_LO1.obj
+ 0001:0000bf80       ?Even_26@@YAXPAUSAMPLE@@@Z 0040cf80 f   Even_LO1.obj
+ 0001:0000c350       ?Even_27@@YAXPAUBITMAP@@PAUSAMPLE@@@Z 0040d350 f   Even_LO1.obj
+ 0001:0000c6f0       ?Even_AM@@YAXXZ            0040d6f0 f   Even_LO1_01.obj
+ 0001:0000c770       ?Even_APIBM@@YAXXZ         0040d770 f   Even_LO1_01.obj
+ 0001:0000c7f0       ?Even_12@@YAXXZ            0040d7f0 f   Even_LO2_MO1.obj
+ 0001:0000c8e0       ?Even_13@@YAXXZ            0040d8e0 f   Even_LO2_MO1.obj
+ 0001:0000c9e0       ?Even_14@@YAXXZ            0040d9e0 f   Even_LO2_MO1.obj
+ 0001:0000cad0       ?Even_16@@YAXXZ            0040dad0 f   Even_LO2_MO1.obj
+ 0001:0000cbf0       ?Even_17@@YAXXZ            0040dbf0 f   Even_LO2_MO1.obj
+ 0001:0000ccb0       ?Even_18@@YAXXZ            0040dcb0 f   Even_LO2_MO1.obj
+ 0001:0000cd90       ?Even_19@@YAXPAUSAMPLE@@@Z 0040dd90 f   Even_LO2_MO1.obj
+ 0001:0000d1d0       ?Even_20@@YAXXZ            0040e1d0 f   Even_LO2_MO1.obj
+ 0001:0000d330       ?Even_GL@@YAXXZ            0040e330 f   Even_LO2_MO1_01.obj
+ 0001:0000d3b0       ?Even_LAW@@YAXXZ           0040e3b0 f   Even_LO2_MO1_01.obj
+ 0001:0000d430       ?Even_CS01@@YAXXZ          0040e430 f   Even_LO2_MO1_01.obj
+ 0001:0000d4b0       ?Even_CS02@@YAXXZ          0040e4b0 f   Even_LO2_MO1_01.obj
+ 0001:0000d530       ?Even_CS03@@YAXXZ          0040e530 f   Even_LO2_MO1_01.obj
+ 0001:0000d5b0       ?Even_FEL01@@YAXXZ         0040e5b0 f   Even_LO2_MO1_01.obj
+ 0001:0000d630       ?Even_FEL02@@YAXXZ         0040e630 f   Even_LO2_MO1_01.obj
+ 0001:0000d6b0       ?Even_FIN01@@YAXXZ         0040e6b0 f   Even_LO2_MO1_01.obj
+ 0001:0000d730       ?Even_FIN02@@YAXXZ         0040e730 f   Even_LO2_MO1_01.obj
+ 0001:0000d7b0       ?Even_IM_ECON@@YAXXZ       0040e7b0 f   Even_LO2_MO1_01.obj
+ 0001:0000d870       ?Even_09@@YAXXZ            0040e870 f   Even_Road.obj
+ 0001:0000d950       ?Even_10@@YAXXZ            0040e950 f   Even_Road.obj
+ 0001:0000da20       ?Even_11@@YAXXZ            0040ea20 f   Even_Road.obj
+ 0001:0000db20       ?Even_LS01@@YAXXZ          0040eb20 f   Even_Road_01.obj
+ 0001:0000dba0       ?Even_LS02@@YAXXZ          0040eba0 f   Even_Road_01.obj
+ 0001:0000dc20       ?Even_Chicken@@YAXXZ       0040ec20 f   Even_Road_01.obj
+ 0001:0000dca0       ?Print_words@@YAHPAUBITMAP@@H@Z 0040eca0 f   Speak.obj
+ 0001:0000de80       ?Choose_Our_Skill@@YAHUFighting_All_Character@@PAUBITMAP@@HQAY03H@Z 0040ee80 f   Choose.obj
+ 0001:0000ea50       ?Choose_Monster@@YAHUMonster_All@@PAUBITMAP@@QAY01H@Z 0040fa50 f   Choose.obj
+ 0001:0000f240       ?Death@@YAXXZ              00410240 f   Death.obj
+ 0001:0000f370       ?Fighting@@YAHUFighting_All_Character@@UMonster_All@@PAUBITMAP@@H@Z 00410370 f   Fighting.obj
+ 0001:0000fc90       ?Choose@@YAXPAUBITMAP@@UFighting_All_Character@@UMonster_All@@QAY01HQAY03H3@Z 00410c90 f   Fighting.obj
+ 0001:00010000       ?Change_HP@@YAXUFighting_All_Character@@UMonster_All@@QAY03HQAY01H@Z 00411000 f   Fighting.obj
+ 0001:00010140       ?Monster_Time@@YAXPAUBITMAP@@HQAY03HQAY01HH@Z 00411140 f   Monster_Time.obj
+ 0001:00010520       ?OUR_Time@@YAXPAUBITMAP@@QAY01HHQAY03H1@Z 00411520 f   OUR_Time.obj
+ 0001:00010a30       ?Our_Attack@@YAHQAY01HQAY03H0H@Z 00411a30 f   OUR_Time.obj
+ 0001:00010ed0       ?Fight_APIBM@@YAHPAUSAMPLE@@@Z 00411ed0 f   Fight_APIBM.obj
+ 0001:00011540       ?Fight_BOSS@@YAHPAUSAMPLE@@@Z 00412540 f   Fight_BOSS.obj
+ 0001:00011bb0       ?Fight_CEE@@YAHPAUSAMPLE@@@Z 00412bb0 f   Fight_CEE.obj
+ 0001:00012250       ?Fight_IM_ECON@@YAHPAUSAMPLE@@@Z 00413250 f   Fight_IM_ECON.obj
+ 0001:000128e0       ?close_button_handler@@YAXXZ 004138e0 f   NUK_GAME.obj
+ 0001:00012910       ?_mangled_main@@YAHXZ      00413910 f   NUK_GAME.obj
+ 0001:00012a30       _WinMain@16                00413a30 f   NUK_GAME.obj
+ 0001:00012a82       _destroy_sample            00413a82 f   allp:allp42.dll
+ 0001:00012a88       _stop_sample               00413a88 f   allp:allp42.dll
+ 0001:00012a8e       _play_sample               00413a8e f   allp:allp42.dll
+ 0001:00012a94       _load_sample               00413a94 f   allp:allp42.dll
+ 0001:00012a9a       _destroy_bitmap            00413a9a f   allp:allp42.dll
+ 0001:00012aa0       _blit                      00413aa0 f   allp:allp42.dll
+ 0001:00012aa6       _masked_blit               00413aa6 f   allp:allp42.dll
+ 0001:00012aac       _load_bitmap               00413aac f   allp:allp42.dll
+ 0001:00012ab2       _create_bitmap             00413ab2 f   allp:allp42.dll
+ 0001:00012ab8       _rest                      00413ab8 f   allp:allp42.dll
+ 0001:00012abe       _allegro_exit              00413abe f   allp:allp42.dll
+ 0001:00012ac4       _clear_to_color            00413ac4 f   allp:allp42.dll
+ 0001:00012aca       _makecol                   00413aca f   allp:allp42.dll
+ 0001:00012ad0       _create_bitmap_ex          00413ad0 f   allp:allp42.dll
+ 0001:00012ad6       _load_font                 00413ad6 f   allp:allp42.dll
+ 0001:00012adc       _save_bitmap               00413adc f   allp:allp42.dll
+ 0001:00012ae2       _get_palette               00413ae2 f   allp:allp42.dll
+ 0001:00012ae8       _textprintf_ex             00413ae8 f   allp:allp42.dll
+ 0001:00012aee       _readkey                   00413aee f   allp:allp42.dll
+ 0001:00012af4       _set_gfx_mode              00413af4 f   allp:allp42.dll
+ 0001:00012afa       _set_color_depth           00413afa f   allp:allp42.dll
+ 0001:00012b00       _set_window_title          00413b00 f   allp:allp42.dll
+ 0001:00012b06       _set_close_button_callback 00413b06 f   allp:allp42.dll
+ 0001:00012b0c       _install_sound             00413b0c f   allp:allp42.dll
+ 0001:00012b12       _install_keyboard          00413b12 f   allp:allp42.dll
+ 0001:00012b18       __install_allegro_version_check 00413b18 f   allp:allp42.dll
+ 0001:00012b1e       __WinMain                  00413b1e f   allp:allp42.dll
+ 0001:00012b24       __chkesp                   00413b24 f   MSVCRT:MSVCRT.dll
+ 0001:00012b2a       _fclose                    00413b2a f   MSVCRT:MSVCRT.dll
+ 0001:00012b30       _fprintf                   00413b30 f   MSVCRT:MSVCRT.dll
+ 0001:00012b36       _fopen                     00413b36 f   MSVCRT:MSVCRT.dll
+ 0001:00012b3c       _fscanf                    00413b3c f   MSVCRT:MSVCRT.dll
+ 0001:00012b42       _fseek                     00413b42 f   MSVCRT:MSVCRT.dll
+ 0001:00012b48       _scanf                     00413b48 f   MSVCRT:MSVCRT.dll
+ 0001:00012b4e       _pow                       00413b4e f   MSVCRT:MSVCRT.dll
+ 0001:00012b60       __ftol                     00413b60 f   MSVCRT:MSVCRT.dll
+ 0001:00012b66       _rand                      00413b66 f   MSVCRT:MSVCRT.dll
+ 0001:00012b6c       __errno                    00413b6c f   MSVCRT:MSVCRT.dll
+ 0001:00012b72       __onexit                   00413b72 f   MSVCRT:atonexit.obj
+ 0001:00012b9e       _atexit                    00413b9e f   MSVCRT:atonexit.obj
+ 0001:00012bb0       _WinMainCRTStartup         00413bb0 f   MSVCRT:crtexew.obj
+ 0001:00012d0e       ___dllonexit               00413d0e f   MSVCRT:MSVCRT.dll
+ 0001:00012d14       __exit                     00413d14 f   MSVCRT:MSVCRT.dll
+ 0001:00012d1a       __XcptFilter               00413d1a f   MSVCRT:MSVCRT.dll
+ 0001:00012d20       _exit                      00413d20 f   MSVCRT:MSVCRT.dll
+ 0001:00012d26       ___getmainargs             00413d26 f   MSVCRT:MSVCRT.dll
+ 0001:00012d2c       __initterm                 00413d2c f   MSVCRT:MSVCRT.dll
+ 0001:00012d32       __setdefaultprecision      00413d32 f   MSVCRT:fp8.obj
+ 0001:00012d44       ___setusermatherr          00413d44 f   MSVCRT:MSVCRT.dll
+ 0001:00012d4a       __matherr                  00413d4a f   MSVCRT:merr.obj
+ 0001:00012d4d       __setargv                  00413d4d f   MSVCRT:dllargv.obj
+ 0001:00012d4e       ___p__commode              00413d4e f   MSVCRT:MSVCRT.dll
+ 0001:00012d54       ___p__fmode                00413d54 f   MSVCRT:MSVCRT.dll
+ 0001:00012d5a       ___set_app_type            00413d5a f   MSVCRT:MSVCRT.dll
+ 0001:00012d60       __except_handler3          00413d60 f   MSVCRT:MSVCRT.dll
+ 0001:00012d66       __controlfp                00413d66 f   MSVCRT:MSVCRT.dll
+ 0001:00012d6c       _GetModuleHandleA@4        00413d6c f   kernel32:KERNEL32.dll
+ 0001:00012d72       _GetStartupInfoA@4         00413d72 f   kernel32:KERNEL32.dll
+ 0002:0000001c       ??_C@_0BK@JIFL@VOICE?109?5?9?5CREO?5EN?5TI?4wav?$AA@ 0041401c     CO1.obj
+ 0002:00000038       ??_C@_0BH@IMIN@image?2character?2EE?4bmp?$AA@ 00414038     CO101.obj
+ 0002:00000050       ??_C@_0BI@DEGO@image?2character?2CEE?4bmp?$AA@ 00414050     CO101.obj
+ 0002:00000068       ??_C@_0BH@FMMA@image?2character?2WL?4bmp?$AA@ 00414068     CO101.obj
+ 0002:00000080       ??_C@_0O@ONAP@image?2NOT?4bmp?$AA@ 00414080     CO101.obj
+ 0002:00000090       ??_C@_0BL@LIDI@image?2CO1?2c011f_allRED?4bmp?$AA@ 00414090     CO101.obj
+ 0002:000000ac       ??_C@_0BI@BFEB@image?2CO1?2c011f_all?4bmp?$AA@ 004140ac     CO101.obj
+ 0002:000000c4       ??_C@_0BH@LHDG@image?2CO1?2c014fRED?4bmp?$AA@ 004140c4     CO104.obj
+ 0002:000000dc       ??_C@_0BE@GIDC@image?2CO1?2c014f?4bmp?$AA@ 004140dc     CO104.obj
+ 0002:000000f0       ??_C@_0BK@IHLH@image?2CO1?2c014flabRED?4bmp?$AA@ 004140f0     CO104_lab.obj
+ 0002:0000010c       ??_C@_0BH@DJPJ@image?2CO1?2c014flab?4bmp?$AA@ 0041410c     CO104_lab.obj
+ 0002:00000124       ??_C@_0BH@PAGH@image?2character?2CM?4bmp?$AA@ 00414124     CO1b01.obj
+ 0002:0000013c       ??_C@_0BM@PNGH@image?2CO1?2c01b1f_allRED?4bmp?$AA@ 0041413c     CO1b01.obj
+ 0002:00000158       ??_C@_0BJ@NCAC@image?2CO1?2c01b1f_all?4bmp?$AA@ 00414158     CO1b01.obj
+ 0002:00000174       ??_C@_0BJ@NAJM@image?2character?2DKHL?4bmp?$AA@ 00414174     BO101.obj
+ 0002:00000190       ??_C@_0BH@CNIC@image?2character?2EL?4bmp?$AA@ 00414190     BO101.obj
+ 0002:000001a8       ??_C@_0BJ@DEBD@image?2character?2TCCD?4bmp?$AA@ 004141a8     BO101.obj
+ 0002:000001c4       ??_C@_0BH@INCH@image?2BO1?2B011fRED?4bmp?$AA@ 004141c4     BO101.obj
+ 0002:000001dc       ??_C@_0BE@HBDC@image?2BO1?2B011f?4bmp?$AA@ 004141dc     BO101.obj
+ 0002:000001f0       ??_C@_0BK@KLEO@image?2BO1?2road_allRED?4bmp?$AA@ 004141f0     BO1Road.obj
+ 0002:0000020c       ??_C@_0BH@BKEA@image?2BO1?2road_all?4bmp?$AA@ 0041420c     BO1Road.obj
+ 0002:00000224       ??_C@_0BK@NGEL@image?2Road?2road001RED?4bmp?$AA@ 00414224     Road001.obj
+ 0002:00000240       ??_C@_0BH@PLBE@image?2Road?2road001?4bmp?$AA@ 00414240     Road001.obj
+ 0002:00000258       ??_C@_0BK@ODI@image?2Road?2road002RED?4bmp?$AA@ 00414258     Road002.obj
+ 0002:00000274       ??_C@_0BH@BLHL@image?2Road?2road002?4bmp?$AA@ 00414274     Road002.obj
+ 0002:0000028c       ??_C@_0BF@KJJP@image?2ThingForLS?4bmp?$AA@ 0041428c     Road003.obj
+ 0002:000002a4       ??_C@_0BK@EGBG@image?2Road?2road003RED?4bmp?$AA@ 004142a4     Road003.obj
+ 0002:000002c0       ??_C@_0BH@LLFO@image?2Road?2road003?4bmp?$AA@ 004142c0     Road003.obj
+ 0002:000002d8       ??_C@_0BH@HGKG@image?2character?2LS?4bmp?$AA@ 004142d8     Road004.obj
+ 0002:000002f0       ??_C@_0BK@LONP@image?2Road?2road004RED?4bmp?$AA@ 004142f0     Road004.obj
+ 0002:0000030c       ??_C@_0BH@NLKE@image?2Road?2road004?4bmp?$AA@ 0041430c     Road004.obj
+ 0002:00000324       ??_C@_0BI@MMPM@image?2character?2EFL?4bmp?$AA@ 00414324     LO2.obj
+ 0002:0000033c       ??_C@_0BH@GMC@image?2character?2GL?4bmp?$AA@ 0041433c     LO2.obj
+ 0002:00000354       ??_C@_0BJ@JAFJ@image?2LO2_MO1?2L02RED?4bmp?$AA@ 00414354     LO2.obj
+ 0002:00000370       ??_C@_0BG@OCAI@image?2LO2_MO1?2L02?4bmp?$AA@ 00414370     LO2.obj
+ 0002:00000388       ??_C@_0BI@JNLE@image?2character?2LAW?4bmp?$AA@ 00414388     LO2_classroom.obj
+ 0002:000003a0       ??_C@_0CD@JKC@image?2LO2_MO1?2L02_classroomRED?4b@ 004143a0     LO2_classroom.obj
+ 0002:000003c4       ??_C@_0CA@GCCM@image?2LO2_MO1?2L02_classroom?4bmp?$AA@ 004143c4     LO2_classroom.obj
+ 0002:000003e4       ??_C@_0BN@OHHK@image?2LO2_MO1?2L02roadRED?4bmp?$AA@ 004143e4     LO2Road.obj
+ 0002:00000404       ??_C@_0BK@DPEE@image?2LO2_MO1?2L02road?4bmp?$AA@ 00414404     LO2Road.obj
+ 0002:00000420       ??_C@_0BI@FKAG@image?2character?2FIM?4bmp?$AA@ 00414420     LO2toMO1road.obj
+ 0002:00000438       ??_C@_0CC@OLF@image?2LO2_MO1?2L02toM01roadRED?4bm@ 00414438     LO2toMO1road.obj
+ 0002:0000045c       ??_C@_0BP@OAHF@image?2LO2_MO1?2L02toM01road?4bmp?$AA@ 0041445c     LO2toMO1road.obj
+ 0002:0000047c       ??_C@_0BH@HGCG@image?2character?2IM?4bmp?$AA@ 0041447c     MO1.obj
+ 0002:00000494       ??_C@_0BJ@EEDF@image?2character?2ECON?4bmp?$AA@ 00414494     MO1.obj
+ 0002:000004b0       ??_C@_0BJ@MHOI@image?2LO2_MO1?2M01RED?4bmp?$AA@ 004144b0     MO1.obj
+ 0002:000004cc       ??_C@_0BG@CMPC@image?2LO2_MO1?2M01?4bmp?$AA@ 004144cc     MO1.obj
+ 0002:000004e4       ??_C@_0BF@OMPO@image?2ThingForCS?4bmp?$AA@ 004144e4     Restroom.obj
+ 0002:000004fc       ??_C@_0BH@DDMH@image?2character?2CS?4bmp?$AA@ 004144fc     Restroom.obj
+ 0002:00000514       ??_C@_0BO@CHAA@image?2LO2_MO1?2restroomRED?4bmp?$AA@ 00414514     Restroom.obj
+ 0002:00000534       ??_C@_0BL@CAJG@image?2LO2_MO1?2restroom?4bmp?$AA@ 00414534     Restroom.obj
+ 0002:00000550       ??_C@_0BM@GCJP@image?2LO2_MO1?2RoadUPRED?4bmp?$AA@ 00414550     RoadUP.obj
+ 0002:0000056c       ??_C@_0BJ@IMLM@image?2LO2_MO1?2RoadUP?4bmp?$AA@ 0041456c     RoadUP.obj
+ 0002:00000588       ??_C@_0BH@NLCH@image?2character?2AM?4bmp?$AA@ 00414588     LO101.obj
+ 0002:000005a0       ??_C@_0BF@EBO@image?2ThingForAM?4bmp?$AA@ 004145a0     LO101.obj
+ 0002:000005b8       ??_C@_0BH@EEJG@image?2LO1?2L011fRED?4bmp?$AA@ 004145b8     LO101.obj
+ 0002:000005d0       ??_C@_0BE@ICMA@image?2LO1?2L011f?4bmp?$AA@ 004145d0     LO101.obj
+ 0002:000005e4       ??_C@_0BK@CHLH@image?2character?2APIBM?4bmp?$AA@ 004145e4     LO102.obj
+ 0002:00000600       ??_C@_0BH@CEO@image?2LO1?2L012fRED?4bmp?$AA@ 00414600     LO102.obj
+ 0002:00000618       ??_C@_0BE@DMCA@image?2LO1?2L012f?4bmp?$AA@ 00414618     LO102.obj
+ 0002:0000062c       ??_C@_0BH@ENLG@image?2LO1?2L015fRED?4bmp?$AA@ 0041462c     LO105.obj
+ 0002:00000644       ??_C@_0BE@NEEA@image?2LO1?2L015f?4bmp?$AA@ 00414644     LO105.obj
+ 0002:00000658       ??_C@_0CB@GGAI@image?2LO1?2principleOfficeRED?4bmp@ 00414658     PrincipleOffice.obj
+ 0002:0000067c       ??_C@_0BO@PCJD@image?2LO1?2principleOffice?4bmp?$AA@ 0041467c     PrincipleOffice.obj
+ 0002:0000069c       ??_C@_0CC@IBDO@VOICE?110?5?9?5THE?5FALL?5OF?5GILEAD?4wa@ 0041469c     PrincipleOffice.obj
+ 0002:000006c0       ??_C@_0BH@BKNC@image?2character?2AC?4bmp?$AA@ 004146c0     CO2.obj
+ 0002:000006d8       ??_C@_0BH@PIOI@image?2character?2AP?4bmp?$AA@ 004146d8     CO2.obj
+ 0002:000006f0       ??_C@_0BF@JKJC@image?2CO2?2C02RED?4bmp?$AA@ 004146f0     CO2.obj
+ 0002:00000708       ??_C@_0BC@EABA@image?2CO2?2C02?4bmp?$AA@ 00414708     CO2.obj
+ 0002:0000071c       ??_C@_0BL@NGHE@image?2CO2?2RoadtoL01RED?4bmp?$AA@ 0041471c     RoadtoLO1.obj
+ 0002:00000738       ??_C@_0BI@LDPG@image?2CO2?2RoadtoL01?4bmp?$AA@ 00414738     RoadtoLO1.obj
+ 0002:00000750       ??_C@_0BH@CKDO@image?2system?2NUK02?4bmp?$AA@ 00414750     Main_Menu.obj
+ 0002:00000768       ??_C@_0BF@PJK@image?2system?2NUK?4bmp?$AA@ 00414768     Main_Menu.obj
+ 0002:00000780       ??_C@_0DF@GBA@VOICE?102?5?9?5zero?9project?5?9?502?5?9?5T@ 00414780     Main_Menu.obj
+ 0002:000007b8       ??_C@_0BI@JCMB@image?2system?2menu02?4bmp?$AA@ 004147b8     Menu.obj
+ 0002:000007d0       ??_C@_0BG@EIAE@image?2system?2menu?4bmp?$AA@ 004147d0     Menu.obj
+ 0002:000007e8       ??_C@_0BC@CMED@?$CFd?5?$CFd?5?$CFd?5?$CFd?5?$CFd?5?$CFd?$AA@ 004147e8     Save.obj
+ 0002:000007fc       ??_C@_08HLIA@Save?4txt?$AA@ 004147fc     Save.obj
+ 0002:00000808       ??_C@_01LLF@w?$AA@         00414808     Save.obj
+ 0002:0000080c       ??_C@_01LHO@r?$AA@         0041480c     Save.obj
+ 0002:00000810       ??_C@_08MEJB@load?4txt?$AA@ 00414810     Cfont.obj
+ 0002:0000081c       ??_C@_02JKAF@rb?$AA@       0041481c     Cfont.obj
+ 0002:00000820       ??_C@_0BM@DCEG@?4?1Cfont?1Cfont_9000x9fa5?4bmp?$AA@ 00414820     Cfont.obj
+ 0002:0000083c       ??_C@_0BM@CIAL@?4?1Cfont?1Cfont_8000x8fff?4bmp?$AA@ 0041483c     Cfont.obj
+ 0002:00000858       ??_C@_0BM@KMNI@?4?1Cfont?1Cfont_7000x7fff?4bmp?$AA@ 00414858     Cfont.obj
+ 0002:00000874       ??_C@_0BM@LFJL@?4?1Cfont?1Cfont_6000x6fff?4bmp?$AA@ 00414874     Cfont.obj
+ 0002:00000890       ??_C@_0BM@JOFO@?4?1Cfont?1Cfont_5000x5fff?4bmp?$AA@ 00414890     Cfont.obj
+ 0002:000008ac       ??_C@_0BM@EEAH@?4?1Cfont?1Cfont_4E00x4fff?4bmp?$AA@ 004148ac     Cfont.obj
+ 0002:000008c8       ??_C@_0BB@FBHL@?4?1Cfont?1sign?4bmp?$AA@ 004148c8     Cfont.obj
+ 0002:000008dc       ??_C@_0BD@GHDL@?4?1Cfont?1number?4bmp?$AA@ 004148dc     Cfont.obj
+ 0002:000008f0       ??_C@_0BE@LEAM@?4?1Cfont?1mingliu?4PCX?$AA@ 004148f0     Cfont.obj
+ 0002:00000904       ??_C@_08HNJA@dump?4bmp?$AA@ 00414904     Cfont.obj
+ 0002:00000910       ??_C@_02JBML@?$CFc?$AA@    00414910     Cfont.obj
+ 0002:00000914       ??_C@_04LKNH@?$CFc?$CFc?$AA@ 00414914     Cfont.obj
+ 0002:0000091c       ??_C@_0BC@IDLI@image?2Face?2EL?4bmp?$AA@ 0041491c     Even_BO1.obj
+ 0002:00000930       ??_C@_0BC@PCPK@image?2Face?2WL?4bmp?$AA@ 00414930     Even_BO1.obj
+ 0002:00000944       ??_C@_0BC@CCLH@image?2Face?2EE?4bmp?$AA@ 00414944     Even_BO1.obj
+ 0002:00000958       ??_C@_0BE@BOON@image?2Face?2TCCD?4bmp?$AA@ 00414958     Even_BO1.obj
+ 0002:0000096c       ??_C@_0BE@PKGC@image?2Face?2DKHL?4bmp?$AA@ 0041496c     Even_BO1.obj
+ 0002:00000980       ??_C@_0BD@MKMA@image?2Face?2CEE?4bmp?$AA@ 00414980     Even_CO1.obj
+ 0002:00000994       ??_C@_0BF@OJDP@VOICE?102?5?9?5TITAN?4wav?$AA@ 00414994     Even_CO1.obj
+ 0002:000009ac       ??_C@_0BC@FOFN@image?2Face?2CM?4bmp?$AA@ 004149ac     Even_CO1.obj
+ 0002:000009c0       ??_C@_0BH@CNMI@image?2Face?2teacher?4bmp?$AA@ 004149c0     Even_CO1.obj
+ 0002:000009d8       ??_C@_0BC@FGNC@image?2Face?2AP?4bmp?$AA@ 004149d8     Even_CO2.obj
+ 0002:000009ec       ??_C@_0BC@LEOI@image?2Face?2AC?4bmp?$AA@ 004149ec     Even_CO2.obj
+ 0002:00000a00       ??_C@_0BD@GDBK@image?2Face?2LAW?4bmp?$AA@ 00414a00     Even_CO2.obj
+ 0002:00000a14       ??_C@_0BC@HFBN@image?2Face?2AM?4bmp?$AA@ 00414a14     Even_LO1.obj
+ 0002:00000a28       ??_C@_0BF@FNJN@image?2Face?2APIBM?4bmp?$AA@ 00414a28     Even_LO1.obj
+ 0002:00000a40       ??_C@_0BJ@PBFC@image?2Face?2Principle?4bmp?$AA@ 00414a40     Even_LO1.obj
+ 0002:00000a5c       ??_C@_0BH@GNPO@VOICE?105?5?9?5AMAZONA?4wav?$AA@ 00414a5c     Even_LO1.obj
+ 0002:00000a74       ??_C@_0BC@KIPI@image?2Face?2GL?4bmp?$AA@ 00414a74     Even_LO2_MO1.obj
+ 0002:00000a88       ??_C@_0BC@JNPN@image?2Face?2CS?4bmp?$AA@ 00414a88     Even_LO2_MO1.obj
+ 0002:00000a9c       ??_C@_0BD@PPAM@image?2Face?2FEL?4bmp?$AA@ 00414a9c     Even_LO2_MO1.obj
+ 0002:00000ab0       ??_C@_0BD@EEMH@image?2Face?2FIN?4bmp?$AA@ 00414ab0     Even_LO2_MO1.obj
+ 0002:00000ac4       ??_C@_0BE@GOML@image?2Face?2ECON?4bmp?$AA@ 00414ac4     Even_LO2_MO1.obj
+ 0002:00000ad8       ??_C@_0BC@NIBM@image?2Face?2IM?4bmp?$AA@ 00414ad8     Even_LO2_MO1.obj
+ 0002:00000aec       ??_C@_0CA@DPKH@VOICE?105?5?9?5Medley?5ActionBIg?4wav?$AA@ 00414aec     Even_LO2_MO1.obj
+ 0002:00000b0c       ??_C@_0BC@NIJM@image?2Face?2LS?4bmp?$AA@ 00414b0c     Even_Road.obj
+ 0002:00000b20       ??_C@_0BH@DMFH@image?2Face?2chicken?4bmp?$AA@ 00414b20     Even_Road.obj
+ 0002:00000b38       ??_C@_0BA@LBBM@image?2SPEAK?4bmp?$AA@ 00414b38     Speak.obj
+ 0002:00000b48       ??_C@_0BJ@JOKH@image?2Fighting?2HP?4MP?4bmp?$AA@ 00414b48     Choose.obj
+ 0002:00000b64       ??_C@_0CA@IFHN@image?2Monster?2MonsterChoose?4bmp?$AA@ 00414b64     Choose.obj
+ 0002:00000b84       ??_C@_0BJ@KDDG@image?2Fighting?2Death?4bmp?$AA@ 00414b84     Death.obj
+ 0002:00000ba0       ??_C@_0BP@NMJL@image?2Fighting?2enemyattack?4bmp?$AA@ 00414ba0     Monster_Time.obj
+ 0002:00000bc0       ??_C@_0BL@LHJN@image?2Fighting?2Attack2?4bmp?$AA@ 00414bc0     OUR_Time.obj
+ 0002:00000bdc       ??_C@_0BM@FDPC@image?2Monster?2MonsterNO?4bmp?$AA@ 00414bdc     Fight_APIBM.obj
+ 0002:00000bf8       ??_C@_0BN@GABL@image?2Monster?2ECONbattle?4bmp?$AA@ 00414bf8     Fight_APIBM.obj
+ 0002:00000c18       ??_C@_0BL@HHGJ@image?2Monster?2IMbattle?4bmp?$AA@ 00414c18     Fight_APIBM.obj
+ 0002:00000c34       ??_C@_0BO@NIHA@image?2Monster?2APIBMbattle?4bmp?$AA@ 00414c34     Fight_APIBM.obj
+ 0002:00000c54       ??_C@_0BG@LPMP@image?2Face?2FaceNo?4bmp?$AA@ 00414c54     Fight_APIBM.obj
+ 0002:00000c6c       ??_C@_0BN@JMM@image?2Fighting?2AMattack2?4bmp?$AA@ 00414c6c     Fight_APIBM.obj
+ 0002:00000c8c       ??_C@_0BN@OJKD@image?2Fighting?2AMattack1?4bmp?$AA@ 00414c8c     Fight_APIBM.obj
+ 0002:00000cac       ??_C@_0BO@GDPK@image?2Fighting?2LAWattack2?4bmp?$AA@ 00414cac     Fight_APIBM.obj
+ 0002:00000ccc       ??_C@_0BO@IDJF@image?2Fighting?2LAWattack1?4bmp?$AA@ 00414ccc     Fight_APIBM.obj
+ 0002:00000cec       ??_C@_0BN@JFJE@image?2Fighting?2WLattack2?4bmp?$AA@ 00414cec     Fight_APIBM.obj
+ 0002:00000d0c       ??_C@_0BN@HFPL@image?2Fighting?2WLattack1?4bmp?$AA@ 00414d0c     Fight_APIBM.obj
+ 0002:00000d2c       ??_C@_0BN@CDCP@image?2Fighting?2EEattack2?4bmp?$AA@ 00414d2c     Fight_APIBM.obj
+ 0002:00000d4c       ??_C@_0BN@MDEA@image?2Fighting?2EEattack1?4bmp?$AA@ 00414d4c     Fight_APIBM.obj
+ 0002:00000d6c       ??_C@_0BJ@NOLI@image?2Fighting?2break?4bmp?$AA@ 00414d6c     Fight_APIBM.obj
+ 0002:00000d88       ??_C@_0CC@KFFD@image?2Monster?2principlebattle?4bm@ 00414d88     Fight_BOSS.obj
+ 0002:00000dac       ??_C@_0BM@GHAP@image?2Monster?2CEEbattle?4bmp?$AA@ 00414dac     Fight_CEE.obj
+ 0002:00000dc8       ??_C@_07LFAE@NUK?5RPG?$AA@ 00414dc8     NUK_GAME.obj
+ 0003:00000000       ___xc_a                    00415000     MSVCRT:cinitexe.obj
+ 0003:00000004       ___xc_z                    00415004     MSVCRT:cinitexe.obj
+ 0003:00000008       ___xi_a                    00415008     MSVCRT:cinitexe.obj
+ 0003:0000000c       ___xi_z                    0041500c     MSVCRT:cinitexe.obj
+ 0003:00000010       ___defaultmatherr          00415010     MSVCRT:merr.obj
+ 0003:00000014       ?$Cfont_x_posi@@3HA        00415014     Cfont.obj
+ 0003:00000018       ?semi_sign@@3PAUFONT@@A    00415018     Cfont.obj
+ 0003:0000001c       ?font_map_sor@@3PAPAUBITMAP@@A 0041501c     Cfont.obj
+ 0003:0000005c       ?font_buffer@@3PAUBITMAP@@A 0041505c     Cfont.obj
+ 0003:00000060       ?$Cfont_buf@@3PAUBITMAP@@A 00415060     Cfont.obj
+ 0003:00000064       ?font_load@@3PAUBITMAP@@A  00415064     Cfont.obj
+ 0003:00000068       ?$Cfont_B@@3HA             00415068     Cfont.obj
+ 0003:0000006c       ?$Cfont_G@@3HA             0041506c     Cfont.obj
+ 0003:00000070       ?$Cfont_R@@3HA             00415070     Cfont.obj
+ 0003:00000074       ?$Cfont_x@@3HA             00415074     Cfont.obj
+ 0003:00000078       ?$Cfont_y@@3HA             00415078     Cfont.obj
+ 0003:0000007c       ?loadf@@3PAU_iobuf@@A      0041507c     Cfont.obj
+ 0003:00000080       ?string@@3PADA             00415080     Cfont.obj
+ 0003:000000e4       ?cloud@@3HA                004150e4     Cfont.obj
+ 0003:000000e8       ?close_button_pressed@@3HC 004150e8     NUK_GAME.obj
+ 0003:000000ec       __dowildcard               004150ec     MSVCRT:wildcard.obj
+ 0003:000000f0       __newmode                  004150f0     MSVCRT:_newmode.obj
+ 0003:000000f4       __commode                  004150f4     MSVCRT:xncommod.obj
+ 0003:000000f8       __fmode                    004150f8     MSVCRT:xtxtmode.obj
+ 0003:000000fc       __adjust_fdiv              004150fc     <common>
+ 0003:00000100       ___onexitend               00415100     <common>
+ 0003:00000104       ___onexitbegin             00415104     <common>
+ 0004:00000000       __IMPORT_DESCRIPTOR_allp42 00416000     allp:allp42.dll
+ 0004:00000014       __IMPORT_DESCRIPTOR_MSVCRT 00416014     MSVCRT:MSVCRT.dll
+ 0004:00000028       __IMPORT_DESCRIPTOR_KERNEL32 00416028     kernel32:KERNEL32.dll
+ 0004:0000003c       __NULL_IMPORT_DESCRIPTOR   0041603c     allp:allp42.dll
+ 0004:00000144       __imp__GetModuleHandleA@4  00416144     kernel32:KERNEL32.dll
+ 0004:00000148       __imp__GetStartupInfoA@4   00416148     kernel32:KERNEL32.dll
+ 0004:0000014c       \177KERNEL32_NULL_THUNK_DATA 0041614c     kernel32:KERNEL32.dll
+ 0004:00000150       __imp___chkesp             00416150     MSVCRT:MSVCRT.dll
+ 0004:00000154       __imp___except_handler3    00416154     MSVCRT:MSVCRT.dll
+ 0004:00000158       __imp____set_app_type      00416158     MSVCRT:MSVCRT.dll
+ 0004:0000015c       __imp____p__fmode          0041615c     MSVCRT:MSVCRT.dll
+ 0004:00000160       __imp____p__commode        00416160     MSVCRT:MSVCRT.dll
+ 0004:00000164       __imp___adjust_fdiv        00416164     MSVCRT:MSVCRT.dll
+ 0004:00000168       __imp____setusermatherr    00416168     MSVCRT:MSVCRT.dll
+ 0004:0000016c       __imp___initterm           0041616c     MSVCRT:MSVCRT.dll
+ 0004:00000170       __imp____getmainargs       00416170     MSVCRT:MSVCRT.dll
+ 0004:00000174       __imp___acmdln             00416174     MSVCRT:MSVCRT.dll
+ 0004:00000178       __imp__exit                00416178     MSVCRT:MSVCRT.dll
+ 0004:0000017c       __imp___XcptFilter         0041617c     MSVCRT:MSVCRT.dll
+ 0004:00000180       __imp___exit               00416180     MSVCRT:MSVCRT.dll
+ 0004:00000184       __imp___onexit             00416184     MSVCRT:MSVCRT.dll
+ 0004:00000188       __imp____dllonexit         00416188     MSVCRT:MSVCRT.dll
+ 0004:0000018c       __imp___errno              0041618c     MSVCRT:MSVCRT.dll
+ 0004:00000190       __imp__rand                00416190     MSVCRT:MSVCRT.dll
+ 0004:00000194       __imp___ftol               00416194     MSVCRT:MSVCRT.dll
+ 0004:00000198       __imp__pow                 00416198     MSVCRT:MSVCRT.dll
+ 0004:0000019c       __imp__scanf               0041619c     MSVCRT:MSVCRT.dll
+ 0004:000001a0       __imp__fseek               004161a0     MSVCRT:MSVCRT.dll
+ 0004:000001a4       __imp__fscanf              004161a4     MSVCRT:MSVCRT.dll
+ 0004:000001a8       __imp__fopen               004161a8     MSVCRT:MSVCRT.dll
+ 0004:000001ac       __imp__fprintf             004161ac     MSVCRT:MSVCRT.dll
+ 0004:000001b0       __imp__fclose              004161b0     MSVCRT:MSVCRT.dll
+ 0004:000001b4       __imp___controlfp          004161b4     MSVCRT:MSVCRT.dll
+ 0004:000001b8       \177MSVCRT_NULL_THUNK_DATA 004161b8     MSVCRT:MSVCRT.dll
+ 0004:000001bc       __imp___WinMain            004161bc     allp:allp42.dll
+ 0004:000001c0       __imp__load_sample         004161c0     allp:allp42.dll
+ 0004:000001c4       __imp___install_allegro_version_check 004161c4     allp:allp42.dll
+ 0004:000001c8       __imp__install_keyboard    004161c8     allp:allp42.dll
+ 0004:000001cc       __imp__install_sound       004161cc     allp:allp42.dll
+ 0004:000001d0       __imp__set_close_button_callback 004161d0     allp:allp42.dll
+ 0004:000001d4       __imp__set_window_title    004161d4     allp:allp42.dll
+ 0004:000001d8       __imp__set_color_depth     004161d8     allp:allp42.dll
+ 0004:000001dc       __imp__set_gfx_mode        004161dc     allp:allp42.dll
+ 0004:000001e0       __imp__readkey             004161e0     allp:allp42.dll
+ 0004:000001e4       __imp__textprintf_ex       004161e4     allp:allp42.dll
+ 0004:000001e8       __imp__get_palette         004161e8     allp:allp42.dll
+ 0004:000001ec       __imp__save_bitmap         004161ec     allp:allp42.dll
+ 0004:000001f0       __imp__load_font           004161f0     allp:allp42.dll
+ 0004:000001f4       __imp__create_bitmap_ex    004161f4     allp:allp42.dll
+ 0004:000001f8       __imp__makecol             004161f8     allp:allp42.dll
+ 0004:000001fc       __imp__clear_to_color      004161fc     allp:allp42.dll
+ 0004:00000200       __imp__allegro_exit        00416200     allp:allp42.dll
+ 0004:00000204       __imp__screen              00416204     allp:allp42.dll
+ 0004:00000208       __imp__rest                00416208     allp:allp42.dll
+ 0004:0000020c       __imp__gfx_driver          0041620c     allp:allp42.dll
+ 0004:00000210       __imp__create_bitmap       00416210     allp:allp42.dll
+ 0004:00000214       __imp__load_bitmap         00416214     allp:allp42.dll
+ 0004:00000218       __imp__masked_blit         00416218     allp:allp42.dll
+ 0004:0000021c       __imp__blit                0041621c     allp:allp42.dll
+ 0004:00000220       __imp__destroy_bitmap      00416220     allp:allp42.dll
+ 0004:00000224       __imp__key                 00416224     allp:allp42.dll
+ 0004:00000228       __imp__play_sample         00416228     allp:allp42.dll
+ 0004:0000022c       __imp__stop_sample         0041622c     allp:allp42.dll
+ 0004:00000230       __imp__destroy_sample      00416230     allp:allp42.dll
+ 0004:00000234       \177allp42_NULL_THUNK_DATA 00416234     allp:allp42.dll
+
+ entry point at        0001:00012bb0
+
+ Static symbols
+
+
+FIXUPS: 13c43 33 6a 1b fffffe9b d fffed93c 16 16 127 16 16 16 16 1df 1a
+FIXUPS: 18aa d 2e 16 16 16 35 36 15 fffff684 27 21 2b 2b 2b 2a 16 2b 10
+FIXUPS: 13d3d fffffede 19 fffee31a 2f 35 15 fffffa16 1c 1c 20 7c 16 94
+FIXUPS: 1b71 48 35 15 fffff5ee 1c 1c 1c 24 29 26 19 2f 35 19 20 80 16 16
+FIXUPS: 1430 99 15d5 fffff55f 1c 1c 1c 2f 35 19 20 7c 16 16 1d6 16 d 2f
+FIXUPS: 23f4 15 fffff834 1c 1c 60 60 32 2f 1d 91 16 16 16 a5 16 c0d 48
+FIXUPS: 2bac 19 10 fffff8d0 1a 27 19 1c 1c 98 70 ea 2c 72 5 40 17 97 2c
+FIXUPS: 2958 5 46 17 48 17 18 16 16 16 16 29c 19 2c 29 19 2c 29 19 20 91
+FIXUPS: 2ee1 16 16 196 15 16 d 1d8 7 fd 16 d 85 16 16 16 36 36 15 fffff5b9
+FIXUPS: 2b02 21 1021 35 15 fffffc3d 27 21 2b 2b 2b 2a 16 3a 10 fffffc83
+FIXUPS: 35bd 1c 1c 1c 20 90 16 16 16 3f 35 15 fffff4c5 1c 1c 1c 1c 2f 1696
+FIXUPS: 439c 36 36 15 fffff7f4 1c 1c 1c 1c 20 92 16 16 16 a1 16 16 16 3e
+FIXUPS: 3ecc 15 fffffac0 1c 1c 1c 1c 20 92 16 16 16 c16 15 16 d 2d 16 16
+FIXUPS: 47c2 35 36 15 fffff71f 1c 1c 1c 24 2c 29 19 20 91 16 16 16 a2 16
+FIXUPS: 4208 16 110 16 16 16 860 16 16 b1 16 16 16 9f 16 16 16 123 d 97
+FIXUPS: 4fad d 2f 35 15 fffff46e 1c 1c 1c 1c 2c 29 19 20 91 16 16 16 b2b
+FIXUPS: 51bd 91 16 16 16 11e 16 16 16 16 c 2e 36 15 fffff436 1c 1c 1c 1c
+FIXUPS: 4960 2c 19 2f 2c 19 20 9e 16 16 16 a1 ce6 90 16 16 16 55 16 16
+FIXUPS: 5a09 36 36 15 fffffa41 27 21 2e 2e 2e 2b 2b 2b 2a 16 3b 10 fffffa08
+FIXUPS: 50cd 1c 1c 24 2f 2c a2c 2c 19 20 91 16 16 16 ae 16 16 16 ad 16
+FIXUPS: 5eb1 16 18b 15 16 d 2f 36 15 fffff62d 1c 1c 1c 1c 20 9d 16 16 12c8
+FIXUPS: 6b68 16 35 36 15 fffff583 1c 1c 1c 1c 2f 2c 19 2f 2c 19 20 91 16
+FIXUPS: 63b6 16 11a 10 2e 36 15 fffff5a2 1c 1c 1c 1c 1238 16 16 b1 16 16
+FIXUPS: 6ed8 3e 36 15 fffff690 1c 1c 1c 1c 29 26 21 2f 2c 19 20 92 16 16
+FIXUPS: 6839 190 16 15 16 d 125 878 d0 15 16 16 16 16 16 12f 16 16 16 35
+FIXUPS: 76e3 15 fffff8a3 27 21 2e 2b 28 16 15 19 d fffffbcc 1c 1c 1c 1c
+FIXUPS: 6d11 92 b78 16 16 ac 16 16 16 b5 1a 19 16 16 16 35 36 15 fffff552
+FIXUPS: 714d 1c 1c 28 2c 29 29 21 2f 2c 19 20 92 16 16 f73 16 16 16 12
+FIXUPS: 7c61 1c 1c 1c 1c 20 7f 16 16 16 9d 16 16 16 3f 35 15 fffff857 1c
+FIXUPS: 77a9 1c 24 2c 26 19 20 91 dff 16 16 1e6 d 1d1 16 d 2f 35 15 fffff3cb
+FIXUPS: 7f82 5d 1c 1c 1c 1c 55 17 74 33 19 36 19 36 19 36 70 d 19 16 fdf
+FIXUPS: 92f6 2a 95 16 16 16 16 16 2b 39 35 15 ffffeeca 27 21 26 16 35 10
+FIXUPS: 84e1 1c 1c 1c 1c 2f 35 19 2f 35 19 20 730 16 16 16 16 3b 39 35
+FIXUPS: 8eb1 41 27 5d 1c 1c 1c 1c 2a 95 16 16 16 16 16 2b 39 35 15 41 27
+FIXUPS: 9286 1c 1c 5d0 26 b3 64 72 1b 16 36 31 22 20 14 12 fffff9d6 22
+FIXUPS: 9557 22 22 22 22 22 22 10 fffff59f 27 5d 1c 1c 1c 1c 2a 95 1b6c
+FIXUPS: a92f 72 16 10 fffff207 1c 1c 70 50 70 25 cf 65 72 43 1e 16 1d 20
+FIXUPS: 9fce 16 14 5 10 fffff695 27 5d 1c 1c 6f 4f 1afc 1e 1a 32 56 12
+FIXUPS: b3f8 6c 129 70 62 e 5b 45 62 62 57 44 40 35 1b f fffff0f5 36 16
+FIXUPS: aa59 47 36 16 d fffff5c1 17 1bf4 e 12 16 16 d ffffee24 1d 23 19
+FIXUPS: abb7 a f 6f 1e 1e 1e 1e 1e 1e 1e 1e 1e 14 3f 49 c 10 34e 34 12d
+FIXUPS: b2d9 712 16 16 16 d 43 1c e e e e 12 16 16 d 41 1c 1c e e e e e
+FIXUPS: bbe9 12 16 16 16 d 43 1c e c6 16 d 3d 11 12 16 d 3a 11 12 16 d
+FIXUPS: bedd 11 12 16 d 3a 11 12 16 d fffff9aa 1c 1c e e e e e e 97a 16
+FIXUPS: c378 16 16 16 16 d 40 1c e e e e e e e 12 16 16 d 37 1c e e e 12
+FIXUPS: c58b 16 d fffff7af e 272 1c e e e e e e e e e 12 16 16 d 7f 1a
+FIXUPS: c177 1c 1c e e e e e e e 19 24 71 9 75 366 d 3d 11 12 16 d 3a 11
+FIXUPS: c790 16 d 3a 11 12 16 d 3a 11 12 16 d 3a 11 12 16 d 3a 11 12 16
+FIXUPS: c9b3 80 e 12 16 16 d 41 1c 1c 1c e e e e e e e e 12 16 16 16 16
+FIXUPS: cc08 fffff9e5 e 12 16 d 3d e 12 f71 e 11 11 11 11 12 16 16 16 16
+FIXUPS: d6d0 d fffff560 11 12 16 d 3a 11 12 16 d 3a 11 12 16 d fffffc6a
+FIXUPS: ca09 e e 8b2 16 16 16 16 d 3f 1c 1c 1c 1c 1c 11 11 11 11 11 11
+FIXUPS: d47e 11 11 11 11 11 11 11 19 24 9 19 16 24 fffff980 12 16 16 16
+FIXUPS: cf6f 3c 60 1c 1c 1c 1c 11 11 11 11 11 11 11 11 11 11 74 16 24 9
+FIXUPS: d251 16 16 24 e 12 1000 12 16 16 16 d fffff3fb 11 12 16 d 3a 11
+FIXUPS: d7c0 16 d fffff5da 1c e e e 12 16 16 d 3f 1c 1c e e e e 10f2 24
+FIXUPS: e01c 75 16 16 24 b e e e e e 12 16 16 16 16 16 d 3e 1c 1c e e e
+FIXUPS: e26d e e e e e fffff9ca 16 d 3d 1c e e e e 12 16 16 d 3f 1a 60
+FIXUPS: de51 1c 1c 1c 19 24 b e e e e e e e 74 16 fffff9da 16 d 37 1c e
+FIXUPS: da45 e e e 12 16 16 d 43 1c 1c e e e e e 12 16 16 16 d 41 1c e
+FIXUPS: dc55 12 b19 16 d 3a 1c 11 11 12 16 16 d ffffefb7 1c e e e e e 12
+FIXUPS: d8a7 16 d 43 1c e e e e e e e 12 ac0 11 12 16 d 3a 11 12 16 d 3a
+FIXUPS: e56e 12 16 d 3a 11 12 16 d 3a 11 12 16 d 3a 11 12 16 d 3a 11 1c1
+FIXUPS: e93c 41 1c e e e 12 16 16 d 3f 1c 1c e e e 12 16 16 16 d fffff84d
+FIXUPS: e36e 12 16 d 3a 11 12 16 d 946 2f 23 3a 17 26 16 16 f fffffce0
+FIXUPS: eb5e 12 16 d 3a 11 12 16 d 3a e 12 16 d fffffc0d 1c e e e e 12
+FIXUPS: e919 eba 63 59 5c 5c 5c 72 14 1b 91 1c 22 76 72 89 57 72 6d 58
+FIXUPS: fe84 11d 2e 72 6d 2e 84 d5 ffffea98 1f 1c 1b 17 1f4 22 1c 1c 1c
+FIXUPS: efc0 1c 1c dc 45 29 46 46 29 46 46 29 46 46 35 35 35 35 66 37 35
+FIXUPS: f513 78 56 64 72 c5 1266 3d 35 1a 9a 3b 1c 88 9b 82 22 22 2e 5b
+FIXUPS: 10df4 22 2e 5b 23 22 2e 5b 23 22 2e d fffff28e 75 51 17 d ffffeba7
+FIXUPS: 116f0 ed 6c 6d 2d 3b 3b 3b 72 15 fffff76e 75 38 42 3e 1ae 2f 5b
+FIXUPS: 11507 d ffffefcf 75 8a 2b 8b 67 69 67 62 63 64 65 224a fffff35c
+FIXUPS: 11f75 82 84 20 1c 1c 2e 1c 1c 2e 1c 1c 34 1f 1f 43 118 2b 2b 2b
+FIXUPS: 124e0 14 16 16 5 12 fffff09f 1c 1c 70 1b68 14 16 16 5 12 fffff336
+FIXUPS: 125e5 82 84 20 1c 1c 2e 1c 1c 2e 1c 1c 34 1f 1f 43 118 2b 2b 2b
+FIXUPS: 12b50 14 16 16 5 a3f 12b 2b 2b 2b f3 14 16 16 5 12 fffff319 72
+FIXUPS: 12cd7 84 20 1c 1c 2e 1c 1c 2e 1c 1c 34 1f 1f 43 13e 2b 2b 2b 84c
+FIXUPS: 13952 f 18 5 17 17 14 22 c 12 5 f f 48 d fffff80b 72 82 84 20 1c
+FIXUPS: 13453 2e 1c 1c 2e 1c 1c 34 1f 1f

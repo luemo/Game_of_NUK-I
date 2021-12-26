@@ -1,0 +1,81 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: allegro - Win32 Profile--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1.NON\LOCALS~1\Temp\RSP7B3.tmp" with contents
+[
+allp.lib /nologo /subsystem:windows /profile /debug /machine:I386 /out:"Profile/allegro.exe" 
+".\Profile\CO1.obj"
+".\Profile\CO101.obj"
+".\Profile\CO104.obj"
+".\Profile\CO104_lab.obj"
+".\Profile\CO1b01.obj"
+".\Profile\Start.obj"
+".\Profile\BO1.obj"
+".\Profile\BO101.obj"
+".\Profile\BO1Road.obj"
+".\Profile\Road.obj"
+".\Profile\Road001.obj"
+".\Profile\Road002.obj"
+".\Profile\Road003.obj"
+".\Profile\Road004.obj"
+".\Profile\LO2.obj"
+".\Profile\LO2_classroom.obj"
+".\Profile\LO2_MO1.obj"
+".\Profile\LO2Road.obj"
+".\Profile\LO2toMO1road.obj"
+".\Profile\MO1.obj"
+".\Profile\Restroom.obj"
+".\Profile\RoadUP.obj"
+".\Profile\LO1.obj"
+".\Profile\LO101.obj"
+".\Profile\LO102.obj"
+".\Profile\LO105.obj"
+".\Profile\PrincipleOffice.obj"
+".\Profile\CO2.obj"
+".\Profile\RoadtoLO1.obj"
+".\Profile\LOAD_GAME.obj"
+".\Profile\Main_Menu.obj"
+".\Profile\Menu.obj"
+".\Profile\people_work.obj"
+".\Profile\Save.obj"
+".\Profile\Cfont.obj"
+".\Profile\Even_BO1.obj"
+".\Profile\Even_BO1_01.obj"
+".\Profile\Even_CO1.obj"
+".\Profile\Even_CO1_01.obj"
+".\Profile\Even_CO2.obj"
+".\Profile\Even_CO2_01.obj"
+".\Profile\Even_LO1.obj"
+".\Profile\Even_LO1_01.obj"
+".\Profile\Even_LO2_MO1.obj"
+".\Profile\Even_LO2_MO1_01.obj"
+".\Profile\Even_Road.obj"
+".\Profile\Even_Road_01.obj"
+".\Profile\Speak.obj"
+".\Profile\Choose.obj"
+".\Profile\Death.obj"
+".\Profile\Fighting.obj"
+".\Profile\Monster_Time.obj"
+".\Profile\OUR_Time.obj"
+".\Profile\Fight_APIBM.obj"
+".\Profile\Fight_BOSS.obj"
+".\Profile\Fight_CEE.obj"
+".\Profile\Fight_IM_ECON.obj"
+".\Profile\NUK_GAME.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1.NON\LOCALS~1\Temp\RSP7B3.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+allegro.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
